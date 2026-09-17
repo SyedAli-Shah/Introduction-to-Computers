@@ -30,7 +30,11 @@ The evolution of computing spans several generations:
 ## Tools Used
 - GitHub for version control
 - Markdown for documentation
-
+## Project Task
+- [x] Create Repository
+- [x] Create Branch
+- [x] Complete README Content
+- [ ] Create Pull Request
 ## Sample Code
 ```c
 #include <stdio.stdio.h>
