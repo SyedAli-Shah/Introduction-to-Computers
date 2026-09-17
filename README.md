@@ -42,11 +42,7 @@ int main() {
     printf("Hello, World!");
     return 0;
 }
-## Project Task
-- [x] Create Repository
-- [x] Create Branch
-- [x] Complete README Content
-- [ ] Create Pull Request
+
 
 
 
