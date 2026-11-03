@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Change Background Color</title>
+</head>
+<body>
+
+    <button onclick="changeColor()">Change Color</button>
+
+    <script>
+        const colors = ["red", "blue", "green", "yellow", "purple", "orange"];
+        let index = 0;
+
+        function changeColor() {
+            document.body.style.backgroundColor = colors[index];
+            index = (index + 1) % colors.length;
+        }
+    </script>
+
+</body>
+</html>
